@@ -1,0 +1,22 @@
+html,body{ background: #FFFFFF; font: 14px; margin: 0; padding: 0; }
+
+div.colorbar { width: 100%; height: 30px; background: #089CE8; margin-left: auto; margin-right: auto; }
+
+div#header,div#footer,div#main_container { width: 1024px; margin-left: auto; margin-right: auto;}
+
+div#logo { width: 100%; height: auto; margin-bottom: 10px; margin-bottom: 10px;}
+
+div#nav_bar{ width: 100%; height: 45px; overflow: hidden;}
+
+div#nav_bar ul {margin: 0;padding: 0; width: 100%; height: 45px; background: #ff0000;}
+
+div#nav_bar ul li { float: left; height: 40px; width: 14.29%;  text-align: center; 
+	padding-top: 12px; padding-bottom: 12px; background: #089CE8; list-style: none;}
+
+div#nav_bar ul li a { color: #ffffff; text-decoration: none; }
+
+div#nav_bar ul li:hover { background: #006DB8; };
+
+div#footer { height: 45px; text-align: center;}
+
+div#footer span { font-size: 13px; margin-right: 10px; }
