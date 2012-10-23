@@ -4,7 +4,7 @@
 	<jsp:include page="inc/banner.jsp" flush="true"/>
 
 	<div id="product_list">
-		<div class="title"><img src="images/product_list_icon.jpg"></div>
+		<div class="title"><img src="images/product_list_icon.jpgs"></div>
 
 		<ul>
 
